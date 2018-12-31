@@ -1,0 +1,16 @@
+{
+  "name": "vuepress-next-test",
+  "version": "1.0.0",
+  "author": "Peter deHaan <peter@deseloper.com> (https://about.me/peterdehaan)",
+  "devDependencies": {
+    "vuepress": "1.0.0-alpha.30"
+  },
+  "keywords": [],
+  "license": "MPL-2.0",
+  "main": "index.js",
+  "scripts": {
+    "build": "vuepress build",
+    "dev": "vuepress dev",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
