@@ -1,13 +1,23 @@
 {
   "name": "vuepress-next-test",
+  "description": "--- titular: This is a fancy title! home: true ---",
   "version": "1.0.0",
   "author": "Peter deHaan <peter@deseloper.com> (https://about.me/peterdehaan)",
+  "bugs": {
+    "url": "https://github.com/pdehaan/vuepress-next-test/issues"
+  },
+  "dependencies": {},
   "devDependencies": {
     "vuepress": "1.0.0-alpha.30"
   },
+  "homepage": "https://github.com/pdehaan/vuepress-next-test#readme",
   "keywords": [],
   "license": "MPL-2.0",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pdehaan/vuepress-next-test.git"
+  },
   "scripts": {
     "build": "vuepress build",
     "dev": "vuepress dev",
